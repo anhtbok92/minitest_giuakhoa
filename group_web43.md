@@ -2,19 +2,20 @@
     + Cường
     + Hùng
 
-- Nhóm 2:
+- Nhóm 2: Đề tài 2
     + Sáng
     + Trọng
+    + Thủy
 
-- Nhóm 3:
+- Nhóm 3: Đề tài 2
     + Quang Anh
     + Nhật
     + Thắng
 
-- Nhóm 4:
+- Nhóm 4: Đề tài 3
     + Khiêm
 
-- Nhóm 5:
+- Nhóm 5: Đề tài 1
     + Chiến
     + Tiến
     + Dũng
